@@ -1,4 +1,4 @@
-weibocrawler-api
+weibocrawler
 ================
 
-使用API爬取新浪微博的用户信息
+使用API和不使用爬取新浪微博的用户信息
